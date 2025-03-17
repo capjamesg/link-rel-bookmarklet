@@ -65,6 +65,5 @@ javascript: (function() {
         linkAnchor.style.wordBreak = "break-all";
         li.appendChild(linkAnchor);
         relLinksDiv.appendChild(li);
-        console.log(rel, href);
     });
 })();
